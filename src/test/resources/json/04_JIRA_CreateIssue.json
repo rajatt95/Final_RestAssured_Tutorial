@@ -1,0 +1,12 @@
+{
+    "fields": {
+        "project": {
+            "key": "LEAR"
+        },
+        "summary": "Created from API call - Story of Shri Lal Bahadur Shastri",
+        "description": "Created using Rest Assured Library - Shri Lal Bahadur Shastri was born on October 2, 1904 at Mughalsarai, a small railway town seven miles from Varanasi in Uttar Pradesh. His father was a school teacher who died when Lal Bahadur Shastri was only a year and half old. His mother, still in her twenties, took her three children to her father’s house and settled down there.      https://www.pmindia.gov.in/en/former_pm/shri-lal-bahadur-shastri/",
+        "issuetype":{
+            "name":"Story"
+        }
+    }
+}

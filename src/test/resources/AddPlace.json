@@ -1,0 +1,16 @@
+{
+  "location": {
+    "lat": -38.383494,
+    "lng": 33.427362
+  },
+  "accuracy": 100,
+  "name": "Verma house",
+  "phone_number": "(+91) 983 893 3937",
+  "address": "Sector-15A, Hisar",
+  "types": [
+    "Goyat Hospital",
+    "HOME"
+  ],
+  "website": "http://google.com",
+  "language": "Hindi"
+}

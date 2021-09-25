@@ -1,0 +1,60 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "location": {
+      "type": "object",
+      "properties": {
+        "lat": {
+          "type": "number"
+        },
+        "lng": {
+          "type": "number"
+        }
+      },
+      "required": [
+        "lat",
+        "lng"
+      ]
+    },
+    "accuracy": {
+      "type": "integer"
+    },
+    "name": {
+      "type": "string"
+    },
+    "phone_number": {
+      "type": "string"
+    },
+    "address": {
+      "type": "string"
+    },
+    "types": {
+      "type": "array",
+      "items": [
+        {
+          "type": "string"
+        },
+        {
+          "type": "string"
+        }
+      ]
+    },
+    "website": {
+      "type": "string"
+    },
+    "language": {
+      "type": "string"
+    }
+  },
+  "required": [
+    "location",
+    "accuracy",
+    "name",
+    "phone_number",
+    "address",
+    "types",
+    "website",
+    "language"
+  ]
+}
